@@ -99,6 +99,16 @@
     mix-blend-mode: soft-light
 }
 
+
+.previewListItem_aa7c25.selected_aa7c25 {
+    background-color: var(--backgroundColor02);
+    border: 2px solid var(--mainColor);
+}
+
+.previewListItem_aa7c25 {
+    background-color: var(--backgroundColor02);
+}
+
 #app-mount .bd-button:not(.bd-button-danger),
 #app-mount .lookFilled-yCfaCM.colorBrand-21Le_q.disabled,
 #app-mount .lookFilled-yCfaCM.colorBrand-I6CyqQ,
